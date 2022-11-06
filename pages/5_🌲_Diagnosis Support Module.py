@@ -10,7 +10,6 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import OneHotEncoder,StandardScaler
 from sklearn.tree import plot_tree
 from sklearn import tree
-import graphviz
 from dtreeviz.trees import *
 st.title('CLINICAL DECISION SUPPORT SYSTEM FOR MIGRAINE')
  
