@@ -32,7 +32,7 @@ st.markdown("""<style>
     </style>""", unsafe_allow_html = True)
 st.markdown('<p class ="big-font">This Dashboard helps the physicians to analyze severity of the disease and about the type of migraine with their symptoms</p>',  unsafe_allow_html = True)
 
-df = pd.read_csv("D:/college/Sem IX/Mini Project/MigraineDSS/data.csv")
+df = pd.read_csv("data.csv")
 
 #Explorartory Data Analysis
 #Relationship Between Categorical Variables and Target
