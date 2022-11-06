@@ -1,5 +1,6 @@
 # For data manipulation
 # from turtle import color
+pip install seaborn
 import numpy as np
 import pandas as pd
 # For data visualization
