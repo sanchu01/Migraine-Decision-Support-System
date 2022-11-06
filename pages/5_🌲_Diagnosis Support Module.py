@@ -14,7 +14,7 @@ from sklearn import tree
 st.title('CLINICAL DECISION SUPPORT SYSTEM FOR MIGRAINE')
  
 
-df = pd.read_csv("D:/college/Sem IX/Mini Project/MigraineDSS/data.csv")
+df = pd.read_csv("Migraine-Decision-Support-System/data.csv")
 
 if st.checkbox('Show dataframe'):
     st.write(df)
