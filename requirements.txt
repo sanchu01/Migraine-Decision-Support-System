@@ -1,4 +1,3 @@
-turtle
 numpy
 pandas
 seaborn
