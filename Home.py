@@ -32,7 +32,7 @@ st.markdown("""<style>
         font-size:20px;
     }
     </style>""", unsafe_allow_html = True)
-df = pd.read_csv("D:/college/Sem IX/Mini Project/MigraineDSS/data.csv")
+df = pd.read_csv("data.csv")
 st.markdown('<p class ="big-font"></p>',  unsafe_allow_html = True)
 st.markdown('<p class ="big-font">Hii... Welcome to the Migraine Analysis Dashboard...</p>',  unsafe_allow_html = True)
 st.markdown('<p class ="big-font">The purpose of this dashboard is to provide a clinical decision support system to help the physicians in the process of diagnosis of headaches and to help patients get a review of their conditions. Decision Support tools have been developed earlier to detect the migraines by the physicians and diagnose the same.</p>',  unsafe_allow_html = True)
