@@ -16,7 +16,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 # For hyper-parameter tuning
 from sklearn.model_selection import RandomizedSearchCV
-from streamlit_marquee import streamlit_marquee
 from streamlit_extras.switch_page_button import switch_page
 # For model interpretation
 # import shap
