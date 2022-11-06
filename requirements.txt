@@ -7,3 +7,4 @@ sklearn
 streamlit
 streamlit_extras
 streamlit_marquee
+pymongo
