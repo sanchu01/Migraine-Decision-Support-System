@@ -6,7 +6,6 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 import plotly.graph_objects as go
-from sklearn.tree import export_graphviz
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import OneHotEncoder,StandardScaler
 from sklearn.tree import plot_tree
