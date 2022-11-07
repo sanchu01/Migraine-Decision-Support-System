@@ -8,7 +8,7 @@ from streamlit_extras.switch_page_button import switch_page
 
 # Security
 #passlib,hashlib,bcrypt,scrypt
-CONNECTION_STRING = "localhost:27017"
+CONNECTION_STRING = "mongodb+srv://sanchez:sanchinno1@physician.ogxnmyk.mongodb.net/?retryWrites=true&w=majority"
    # Create a connection using MongoClient. You can import MongoClient or use pymongo.MongoClient
 client = pymongo.MongoClient(CONNECTION_STRING)
 
